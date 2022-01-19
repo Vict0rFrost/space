@@ -1,5 +1,6 @@
 {
-  "name": "lesson2",
+  "name": "myspace",
+  "homepage": "https://vict0rfrost.github.io/space/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
